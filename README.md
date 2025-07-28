@@ -1,4 +1,4 @@
 # Demo
-This i my first git Repo
+This is my first git Repo
 <br>
 Author - Arpit Sharma
